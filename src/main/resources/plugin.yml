@@ -1,0 +1,6 @@
+name: Geyserplayerheads Spigot
+version: '${project.version}'
+main: me.onebeastofchris.geyserplayerheadsspigot.GeyserplayerheadsSpigot
+softdepend: [ org.geysermc.floodgate ]
+authors: [ onebeastofchris ]
+description: A spigot plugin fork of my fabric mod "GeyserPlayerHeads". Drops player heads for both bedrock/java upon death
