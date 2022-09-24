@@ -1,4 +1,4 @@
-name: Geyserplayerheads Spigot
+name: GeyserplayerheadsSpigot
 version: '${project.version}'
 main: me.onebeastofchris.geyserplayerheadsspigot.GeyserplayerheadsSpigot
 softdepend: [ org.geysermc.floodgate ]
